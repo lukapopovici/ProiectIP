@@ -16,5 +16,15 @@ namespace InterfataUtilizator
         {
             InitializeComponent();
         }
+
+        private void BackButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void nextButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
